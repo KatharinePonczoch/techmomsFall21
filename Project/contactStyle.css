@@ -1,0 +1,10 @@
+body {
+  margin-top: 10%;
+  background: url("projectImages/leaf.jpg");
+  background-repeat: no-repeat;
+  background-color: rgba(167, 245, 248, 0.6);
+  color: black;
+  font-weight: bolder;
+  background-blend-mode: lighten;
+  background-size: cover;
+}
